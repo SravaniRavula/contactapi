@@ -1,0 +1,15 @@
+{
+  "user": {
+    "id": "string",
+    "username": "string"
+  },
+  "contact": {
+    "id": "string",
+    "createdAt": "number",
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "address": "string",
+    "phoneNumber":"int"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "contact": [
+    {
+      "id": "qpKcPXlTXkD_Ky7p0ubsH",
+      "createdAt": 1620983812376,
+      "firstName": "demo",
+      "lastName": "test",
+      "email": "demo@test.com",
+      "address": "testdemo",
+      "phoneNumber": 654012398,
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
+}
